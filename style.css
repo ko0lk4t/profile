@@ -1,0 +1,85 @@
+@import url('https://fonts.googleapis.com/css2?family=Fredoka+One&family=Macondo&family=Montserrat:wght@300;400;500&family=Roboto:wght@300;400;700&display=swap');
+
+body {
+background-color: whitesmoke;
+margin: ;
+}
+
+h1 {
+  font-family:'Fredoka one', sans-serif;
+  color: #380D20;
+}
+
+h2 {
+  font-family:'Fredoka one', sans-serif;
+  color: #66183A;
+}
+
+a{
+  font-family:'Fredoka one', sans-serif;
+  color: #66183A;
+}
+
+p {
+  font-family:'Fredoka one', sans-serif;
+  color: #EBF849;
+  padding: 8px;
+  margin: 8px;
+}
+
+.img-round {
+  border-radius: 50%;
+}
+
+.white-card{
+  background-color: #EA3786;
+  width: 500px;
+  margin: 16px auto;
+  text-align: center;
+  border-radius: 4px;
+  padding: 8px;
+  box-shadow: 0 8px 16px rgba(0, 0, 0, 0.05);
+}
+
+.mauve-button {
+  display: inline-block;
+  background-color: #6B3A4F;
+  text-decoration: none;
+  padding: 4px;
+  border-radius: 4px;
+  margin-top: 8px;
+  color: white;
+  transition: 0.3s ease;
+}
+
+.mauve-button:hover {
+  background-color: #B82C69;
+  transition: 0.5s ease;
+}
+.list-inline {
+  list-style: none;
+  padding: 8px;
+  display: inline-block;
+  text-align: center;
+}
+
+
+.video-card {
+  background-color: #EA3786;
+  margin: 16px auto;
+  text-align: center;
+  border-radius: 4px;
+  padding: 8px;
+  box-shadow: 0 8px 16px rgba(0, 0, 0, 0.05);
+  display: block;
+}
+
+.corgi-card {
+  background-color: #EA3786;
+  width: 700px;
+  margin: 16px auto;
+  text-align: center;
+  border-radius: 4px;
+  padding: 8px;
+  box-shadow: 0 8px 16px rgba(0, 0, 0, 0.05);
+}
